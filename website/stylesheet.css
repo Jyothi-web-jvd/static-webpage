@@ -1,0 +1,268 @@
+.header{
+    height:110px;
+    display:inline-flex;
+    background-color: hsl(229, 58%, 96%);
+    width:100%;
+}
+.header-logo img
+{
+    height:90px;
+    width:90px;
+    padding:10px;
+    border-radius:50%;;
+}
+.header h1{
+    
+    font-size:32px;
+    display:inline;
+    padding:16px;
+    color: rgb(0, 119, 222);
+    font-weight: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.header-list ul li
+{
+    float:left;
+    padding:21px 10px 10px 80px;
+    list-style:none;
+
+    
+}
+.header-list ul li a{
+    text-decoration: none;
+    font-size:25px;
+    color:rgb(24, 4, 249);
+}
+a:hover{
+    background-color: rgb(221, 210, 231);
+}
+
+.main
+{
+    height:2200px;
+    background-color:#ffff;
+
+}
+#About
+{
+    height:600px;
+    width:100%;
+    display:flex;
+    background-color: white;
+    
+
+}
+.about
+{
+    height:500px;
+    width:60%;
+   
+
+}
+span
+{
+    font-size: 60px;
+}
+.about p{
+   
+    font-size: 27px;
+    text-align: center;
+    font-weight: 40px;
+    padding-top:180px;
+    text-align: center;
+    font-family:Georgia;
+    line-height:40px;
+
+}
+.logo img
+{
+    width:500px;
+    height:500px;
+    border-radius:80%;
+    padding:80px 0px 10px 50px;
+}
+
+#Placement h1{
+    
+    font-size:50px;
+    color: #f00;
+    text-align: center;
+}
+#Placement h2{
+    font-size:35px;
+    text-align: center;
+
+}
+#Placement h2 span{
+    color:rgb(30, 5, 66)
+
+}
+
+
+#Placement ul li{
+    
+    font-size: 34px;
+    color:hsl(180, 14%,0.3%);
+    margin-left:450px;
+    padding-top: 30px;
+    
+    
+}
+
+#Programs
+{
+    height:600px;
+    
+}
+#Programs h1 span{
+    color:rgb(41, 41, 228);
+    text-align: center;
+}
+#Programs h1{
+    text-align: center;
+    padding:10px;
+    font-size: 40px;
+}
+.cs
+{
+  font-size:10px;
+  display: flex;
+  padding:10px 40px 20px 40px;
+  margin-left:130px;
+}
+
+.commerce h1
+{
+  color:#f00;
+  text-align: center;
+}
+.science h1
+{
+  color:#f00;
+  text-align: center;
+}
+.commerce p{
+  color:rgb(20, 19, 19);
+  text-align: center;
+  font-size: 30px;
+}
+.science
+{
+    margin-left:70px;
+}
+
+.science p{
+    color:rgb(20, 19, 19);
+    text-align: center;
+    font-size: 30px;
+}
+
+.commerce ul li{
+    font-size: 32px;
+    color:rgb(77, 72, 72);
+   
+    margin-left: 80px;
+}
+
+.science ul li{
+    font-size: 32px;
+    color:rgb(77, 72, 72);
+   
+    margin-left: 80px;
+}
+
+
+
+#Contact
+{
+    height:100px;
+    
+}
+#Contact h1{
+    font-size:40px;
+    text-align: center;
+}
+.form
+{
+
+border-radius:5px;
+padding:20px;
+background-color: rgb(232, 252, 252);
+
+
+}
+form{
+    text-align:center;
+   
+}
+form label{
+    font-size: 30px;
+    padding:20px;
+}
+form input[type=text]{
+    width:60%;
+    padding:12px 20px;
+    margin:8px 0;
+    display:inline-block;
+    border:1px slid #ccc;
+
+}
+
+form input[type=textarea]{
+    width:60%;
+    padding:12px 20px;
+    margin:8px 0;
+    display:inline-block;
+    border:1px slid #ccc;
+
+}
+.form input[type=submit]
+{
+background-color: rgb(16, 15, 15);
+color:white;
+padding:14px 20px;
+margin:8px 0;
+border:none;
+border-radius:4px;
+cursor:pointer;
+}
+
+
+
+.footer{
+    height:110px;
+    display:inline-flex;
+    background-color: hsl(229, 58%, 96%);
+    width:100%;
+}
+.footer-logo img
+{
+    height:90px;
+    width:90px;
+    padding:10px;
+    border-radius:50%;;
+}
+.footer h1{
+    
+    font-size:32px;
+    display:inline;
+    padding:16px;
+    color: rgb(0, 119, 222);
+    font-weight: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.footer-list ul li
+{
+    float:left;
+    padding:21px 10px 10px 80px;
+    list-style:none;
+
+    
+}
+.footer-list ul li a{
+    text-decoration: none;
+    font-size:25px;
+    color:rgb(24, 4, 249);
+}
